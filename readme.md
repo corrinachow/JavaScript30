@@ -2,7 +2,7 @@
 
 No Frameworks ❌ No Compilers ❌ No Libraries ❌ No Boilerplate
 
-Each mini-project is built using only JavaScript.  Each exercise has my notes and thoughts.
+Each mini-project is built using only vanilla JavaScript and CSS.  Click into the folders to find my thoughts, notes, and demos on each exercise.
 
 Original files from [Wes Bos](https://github.com/wesbos/JavaScript30).
 
