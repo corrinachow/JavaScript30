@@ -42,7 +42,7 @@ for(var i = 0; i < inventors.length; i++) {
 Re-written using the `reduce()` method:
 
 ```JavaScript
-const totalYears = inventors.reduce((total, inventor) => total + (inventor.passed - inventr.year), 0) //0 represents the initial value
+const totalYears = inventors.reduce((total, inventor) => total + (inventor.passed - inventor.year), 0) //0 represents the initial value
 ```
 
 `sort()` method loops through and sorts of element of an array according to the compare function.
