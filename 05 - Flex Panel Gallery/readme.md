@@ -89,8 +89,8 @@ panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
 
 ## Events
 
-- click
-- transitionend
+- **click**
+- **transitionend**
 
 ## Resources
 
